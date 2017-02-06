@@ -87,3 +87,14 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+
+
+.png
+.tar.gz
+cache/
+data/
+align_cache/
+submissions/
+*.csv
+
